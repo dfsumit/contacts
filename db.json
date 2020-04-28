@@ -1,17 +1,9 @@
-[
-  {
-    "id": 1,
-    "name": "Lara",
-    "email" : "lara@stickerkid.com",
-  },
-  {
-  "id": 2,
-  "name": "Sara",
-  "email" : "sara@stickerkid.com",
-  },
-  {
-  "id": 3,
-  "name": "Cera",
-  "email" : "cera@stickerkid.com",
-  },
-]
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
