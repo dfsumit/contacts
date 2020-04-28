@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "Lara",
-      "email" : "lara@stickerkid.com",
+      "email" : "lara@stickerkid.com"
     },
     {
       "id": 2,
       "name": "Sara",
-      "email" : "sara@stickerkid.com",
+      "email" : "sara@stickerkid.com"
     },
     {
       "id": 3,
       "name": "Cera",
-      "email" : "cera@stickerkid.com",
+      "email" : "cera@stickerkid.com"
     }
   ]
 }
