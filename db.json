@@ -4,16 +4,6 @@
       "id": 1,
       "name": "Lara",
       "email" : "lara@stickerkid.com"
-    },
-    {
-      "id": 2,
-      "name": "Sara",
-      "email" : "sara@stickerkid.com"
-    },
-    {
-      "id": 3,
-      "name": "Cera",
-      "email" : "cera@stickerkid.com"
     }
   ]
 }
